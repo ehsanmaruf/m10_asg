@@ -1,0 +1,5 @@
+This is a basic folder setup for a website using next.js version 13.4.
+Inside the "app" folder, I made changes to two important files: "page.js," which is the main page of the website, and "layout.js," which defines the overall layout of the website.
+I also included a "not-found.js" file. This file is shown when a user tries to access a page that doesn't exist. Additionally, I added an "error.js" file. 
+This file helps handle unexpected errors that might occur in different parts of the website, both on the server and in the client. It displays a backup design if such errors happen.
+In the "app" folder, I created a sub-folder called "about." Inside this sub-folder, I added a "page.js" file and a "layout.js" file. These files explain how things work within this specific part of the website.
